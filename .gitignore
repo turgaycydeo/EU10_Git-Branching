@@ -1,2 +1,4 @@
-/.idea/
-/EU10_Git-Branching.iml
+.idea
+*.iml
+out
+*.xml
